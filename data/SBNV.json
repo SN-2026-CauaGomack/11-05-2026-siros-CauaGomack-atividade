@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:45:32.573600+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBNV",
+  "airport_name": "SBNV",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBNV",
+    "sg_aerodromo_iata": "",
+    "descricao": "AERÓDROMO NACIONAL DE AVIAÇÃO - GOIÂNIA - GO - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}

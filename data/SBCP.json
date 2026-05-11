@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-05-11T12:45:36.346152+00:00",
+  "data_referencia": "2026-05-11",
+  "airport_icao": "SBCP",
+  "airport_name": "SBCP",
+  "airport_info": {
+    "sg_aerodromo_icao": "SBCP",
+    "sg_aerodromo_iata": "CAW",
+    "descricao": "BARTOLOMEU LISANDRO - CAMPOS DOS GOYTACAZES - RJ - BRASIL"
+  },
+  "source": "SIROS/ANAC",
+  "source_url": "https://sas.anac.gov.br/sas/siros_api/",
+  "arrivals": [],
+  "departures": []
+}
