@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-06-29T17:39:33.667813+00:00",
+  "updated_at": "2026-06-29T22:09:07.297818+00:00",
   "data_referencia": "2026-06-29",
   "airport_icao": "SBGR",
   "airport_name": "Sao Paulo / Guarulhos",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBGR",
-    "sg_aerodromo_iata": "GRU",
-    "descricao": "GUARULHOS - GOVERNADOR ANDRÉ FRANCO MONTORO - GUARULHOS - SP - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
