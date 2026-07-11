@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-11T13:23:55.906632+00:00",
+  "updated_at": "2026-07-11T15:58:08.915182+00:00",
   "data_referencia": "2026-07-11",
   "airport_icao": "SBBE",
   "airport_name": "Belem",
   "airport_info": {
-    "sg_aerodromo_icao": "SBBE",
-    "sg_aerodromo_iata": "BEL",
-    "descricao": "INTERNACIONAL DE BELÉM/VAL DE CANS/JÚLIO CEZAR RIBEIRO - BELÉM - PA - BRASIL"
+    "sg_aerodromo_icao": "SBSP",
+    "sg_aerodromo_iata": "CGH",
+    "descricao": "CONGONHAS - SÃO PAULO - SP - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
