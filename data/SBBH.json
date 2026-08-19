@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-18T21:26:16.971614+00:00",
-  "data_referencia": "2026-08-18",
+  "updated_at": "2026-08-19T09:36:23.992124+00:00",
+  "data_referencia": "2026-08-19",
   "airport_icao": "SBBH",
   "airport_name": "Belo Horizonte / Pampulha",
   "airport_info": {
-    "sg_aerodromo_icao": "SBSC",
-    "sg_aerodromo_iata": "",
-    "descricao": "BARTOLOMEU DE GUSMAO   - RIO DE JANEIRO - RJ - BRASIL"
+    "sg_aerodromo_icao": "SBBH",
+    "sg_aerodromo_iata": "PLU",
+    "descricao": "PAMPULHA - CARLOS DRUMMOND DE ANDRADE - BELO HORIZONTE - MG - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
