@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-30T15:43:10.430294+00:00",
+  "updated_at": "2026-10-01T00:24:50.330207+00:00",
   "data_referencia": "2026-09-30",
   "airport_icao": "SBPA",
   "airport_name": "Porto Alegre",
   "airport_info": {
-    "sg_aerodromo_icao": "SBPA",
-    "sg_aerodromo_iata": "POA",
-    "descricao": "SALGADO FILHO - PORTO ALEGRE - RS - BRASIL"
+    "sg_aerodromo_icao": "SBMA",
+    "sg_aerodromo_iata": "MAB",
+    "descricao": "JOÃO CORREA DA ROCHA - MARABÁ - PA - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
